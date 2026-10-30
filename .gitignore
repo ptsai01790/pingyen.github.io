@@ -1,4 +1,7 @@
-.venv/
 .DS_Store
-__pycache__/
 .ipynb_checkpoints/
+_build/
+
+# make sure Labs aren't included
+Lab*.ipynb
+lab*.ipynb
