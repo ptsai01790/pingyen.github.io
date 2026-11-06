@@ -15,9 +15,4 @@ project:
     - title: Lecture 16 Example
       children:
         - file: lecture_16_example.ipynb/lecture_16_example.ipynb
-    
-site:
-  template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+    - file: project1.ipynb
