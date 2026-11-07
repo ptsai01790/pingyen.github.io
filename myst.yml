@@ -15,3 +15,6 @@ project:
         - file: lecture_16_example.ipynb/lecture_16_example.ipynb
     - file: project1.ipynb
 
+
+site:
+  template: book-theme
