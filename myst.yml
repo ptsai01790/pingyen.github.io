@@ -10,9 +10,7 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"   
   toc:
     - file: index.md
-    - title: Lecture 16 Example
-      children:
-        - file: lecture_16_example.ipynb/lecture_16_example.ipynb
+    - title: file: lecture_16_example.ipynb/lecture_16_example.ipynb
     - file: project1.ipynb
 
 
